@@ -1,17 +1,6 @@
-## Iabella Farias 💖
+## Isabella Farias 💖
 
-
-<div>
-
-  # Frontend skills
-          - HTML5
-          - CSS3
-          - JavaScript
-
-</div>
-
-
-# 💻 My abilities 
+# 💻 Frontend skills
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
     <td align="center"  width="96">
