@@ -12,7 +12,7 @@
             <br>CSS
         </td>
         <td align="center" width="96">
-            <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="icon" width="48" height="48" border-radius="10px" />
+            <img src="https://static.vecteezy.com/system/resources/thumbnails/048/332/149/small_2x/js-icon-transparent-background-free-png.png" alt="icon" width="48" height="48" border-radius="10px" />
             <br>JavaScript
         </td>
         <td align="center" width="96">
