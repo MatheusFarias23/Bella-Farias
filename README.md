@@ -12,7 +12,7 @@
             <br>CSS
         </td>
         <td align="center" width="96">
-            <img src="https://static.vecteezy.com/system/resources/thumbnails/048/332/149/small_2x/js-icon-transparent-background-free-png.png" alt="icon" width="58" height="58" />
+            <img src="https://static.vecteezy.com/system/resources/thumbnails/048/332/149/small_2x/js-icon-transparent-background-free-png.png" alt="icon" width="63" height="63" />
             <br>JavaScript
         </td>
         <td align="center" width="96">
