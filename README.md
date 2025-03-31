@@ -20,8 +20,7 @@
             <br>BootStrap
         </td> 
          <td align="center" width="96">
-            <img src="![image](https://github.com/user-attachments/assets/cba865bd-e17f-43cf-abdb-138e31a1aa64)
-" alt="icon" width="47" height="47" />
+            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjluc3RpdTAwaDVya3hjMTRtZXFxejBoOHNxaWp3MWN6YnJreGl6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NEmoHeRrWFvdO4sNaY/giphy.gif" alt="icon" width="47" height="47" />
             <br>React
         </td>
     </table>
