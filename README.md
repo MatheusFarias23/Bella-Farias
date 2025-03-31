@@ -20,7 +20,7 @@
             <br>BootStrap
         </td> 
          <td align="center" width="96">
-            <img src="![image](https://github.com/user-attachments/assets/1170fdeb-a6b9-400e-9af6-f5ceae55912c)
+            <img src="![image](https://github.com/user-attachments/assets/cba865bd-e17f-43cf-abdb-138e31a1aa64)
 " alt="icon" width="47" height="47" />
             <br>React
         </td>
