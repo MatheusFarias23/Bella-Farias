@@ -18,6 +18,11 @@
         <td align="center" width="96">
             <img src="https://camo.githubusercontent.com/6b1bf7b8b619209db3380bb7d254b3aa8eacd86d708ee47c4efd90c3e770c190/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" alt="icon" width="47" height="47" />
             <br>BootStrap
+        </td> 
+         <td align="center" width="96">
+            <img src="![image](https://github.com/user-attachments/assets/1170fdeb-a6b9-400e-9af6-f5ceae55912c)
+" alt="icon" width="47" height="47" />
+            <br>React
         </td>
     </table>
 </div>
